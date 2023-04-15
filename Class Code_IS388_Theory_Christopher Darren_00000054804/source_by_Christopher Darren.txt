@@ -1,0 +1,32 @@
+link dataset
+https://www.kaggle.com/datasets/nyagami/video-game-ratings-from-imdb
+
+data set ini berisi game dengan votingan tertinggi, dan user criticnya
+-columnya berisi
+-Game title
+-Launch year
+-Game genre
+-Game rating
+-Number of voters
+-Director
+-Game description or plot
+
+
+2.https://www.kaggle.com/datasets/kendallgillies/video-game-sales-and-ratings(yg dipakai)
+
+data set ini berisi penjualan sales game global dari publisher ternama di dunia.
+Name - The game's name
+Platform - Platform of the games release
+YearofRelease - Year of the game's release
+Genre - Genre of the game
+Publisher - Publisher of the game
+NA_Sales - Sales in North America (in millions)
+EU_Sales - Sales in Europe (in millions)
+JP_Sales - Sales in Japan (in millions)
+Other_Sales - Sales in the rest of the world (in millions)
+Global_Sales - Total worldwide sales (in millions)
+Critic_score - Aggregate score compiled by Metacritic staff
+Critic_count - The number of critics used in coming up with the critic score
+User_score - Score by Metacritic's subscribers
+User_count - Number of users who gave the user score
+Rating - The ESRB ratings
